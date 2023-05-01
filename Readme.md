@@ -91,7 +91,7 @@ Execute BuildMacOSUniversalBinary.py --help for more details.
 ### Linux Global Build Steps:
 
 To install to your system.
-You could probably build this with emscripten if you replaced cmake and make with emcmake and emmake. Maybe.
+You could probably build this with emscripten if you replaced cmake and make with emmake. Emscripten provides an example html file for hosting, so you could just use that.
 
 1. `mkdir build`
 2. `cd build`
